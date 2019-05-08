@@ -1,0 +1,258 @@
+CountryRegion,CodeAlpha,CodeNumeric,ExponentConversions,Currency
+"Afganistan",AFA,4,-2,Afghanistan Afghani
+"Albania",ALL,8,-2,Albanian Lek
+"Algeria",DZD,12,-2,Algerian Dinar
+"American Samoa",USD,840,-2,US Dollar
+"Andorra",ESP,724,0,Spanish Peseta
+"Andorra",FRF,250,-2,French Franc
+"Andorra",ADP,20,0,Andorran Peseta
+"Angola",AOA,973,-2,Kwanza
+"Anguilla",XCD,951,-2,East Caribbean Dollar
+"Antigua and Barbuda",XCD,951,-2,East Caribbean Dollar
+"Argentina",ARS,32,-2,Argentine Peso
+"Armenia",AMD,51,-2,Armenian Dram
+"Aruba",AWG,533,-2,Aruban Guilder
+"Australia",AUD,36,-2,Australian Dollar
+"Austria",ATS,40,-2,Austrian Schilling
+"Azerbaijan",AZM,31,-2,Azerbaijanian Manat
+"Bahamas",BSD,44,-2,Bahamian Dollar
+"Bahrain",BHD,48,-3,Bahraini Dinar
+"Bangladesh",BDT,50,-2,Bangladeshi Taka
+"Barbados",BBD,52,-2,Barbados Dollar
+"Belarus",BYB,112,0,Belarussian Ruble
+"Belarus",RYR,974,0,Belarussian Ruble
+"Belgium",BEF,56,0,Belgian Franc
+"Belize",BZD,84,-2,Belize Dollar
+"Benin",XOF,952,0,CFA Franc (BCEAO)
+"Bermuda",BMD,60,-2,Bermuda Dollar
+"Bhutan",INR,356,-2,Indian Rupee
+"Bhutan",BTN,64,-2,Ngultrum
+"Bolivia",BOB,68,-2,Boliviano
+"Bolivia",BOV,984,-2,Mvdol
+"Bosnia & Herzegovina",BAM,977,-2,Convertible Marks
+"Botswana",BWP,72,-2,Pula
+"Bouvet Island",NOK,578,-2,Norwegian Krone
+"Brazil",BRL,986,-2,Brazil Real
+"British Indian Ocean Territory",USD,840,-2,US Dollar
+"Brunei Darrusslam",BND,96,-2,Brunei Dollar
+"Bulgaria",BGL,100,-2,Lev
+"Bulgaria",BGN,975,-2,Bulgarian Lev
+"Burkina Faso",XOF,952,0,CFA Franc BCEAO
+"Burundi",BIF,108,0,Burundi Franc
+"Cambodia",KHR,116,-2,Cambodian Riel
+"Cameroon",XAF,950,0,CFA Franc (BEAC)
+"Canada",CAD,124,-2,Canadian Dollar
+"Cape Verde",CVE,132,-2,Cape Verde Escudo
+"Cayman Islands",KYD,136,-2,Cayman Islands Dollar
+"Central African Republic",XAF,950,0,CFA Franc (BEAC)
+"Chad",XAF,950,0,CFA Franc (BEAC)
+"Chile",CLP,152,0,Chilean Peso
+"Chile",CLF,990,0,Unidates de fomento
+"China",CNY,156,-2,Yuan Renminbi
+"China (Hong Kong S.A.R.)",HKD,344,-2,Hong Kong Dollar
+"China (Macau S.A.R.)",MOP,446,-2,Pataca
+"Christmas Island",AUD,36,-2,Australian Dollar
+"Cocos (Keeling) Islands",AUD,36,-2,Australian Dollar
+"Colombia",COP,170,-2,Colombian Peso
+"Comoros",KMF,174,0,Comoro Franc
+"Congo",XAF,950,0,CFA Franc (BEAC)
+"Congo, Democratic Republic of",CDF,976,-2,Franc Congolais
+"Cook Islands",NZD,554,-2,New Zealand Dollar
+"Costa Rica",CRC,188,-2,Costa Rican Colon
+"Côte D'Ivoire",XOF,952,0,CFA Franc (BCEAO)
+"Croatia",HRK,191,-2,Croatian Kuna
+"Cuba",CUP,192,-2,Cuban Peso
+"Cyprus",CYP,196,-2,Cyprus Pound
+"Czech Republic",CZK,203,-2,Czech Koruna
+"Denmark",DKK,208,-2,Danish Krone
+"Djibouti",DJF,262,0,Djibouti Franc
+"Dominica",XCD,951,-2,East Caribbean Dollar
+"Dominican Republic",DOP,214,-2,Dominican Peso
+"East Timor",TPE,626,0,Timor Escudo
+"East Timor",IDE,360,-2,Rupiah
+"Ecuador",ECS,218,-2,Sucre
+"Ecuador",ECV,983,-2,Unidad de Valor Constante (UVC)
+"Egypt",EGP,818,-2,Egyptian Pound
+"El Salvador",SVC,222,-2,El Salvador Colon
+"Equatorial Guinea",XAF,950,0,CFA Franc (BEAC)
+"Eritrea",ERN,232,-2,Nafka
+"Estonia",EEK,233,-2,Kroon
+"Ethiopia",ETB,230,-2,Ethiopian Birr
+"Faroe Islands",DKK,208,-2,Danish Krone
+"European Union (ECU)",XEU,954,-2,euro
+"European Union (Euro)",EUR,978,-2,European Currency Unit
+"Falkland Islands",FKP,238,-2,Falkland Islands Pound
+"Fiji",FJD,242,-2,Fiji Dollar
+"Finland",FIM,246,-2,Finnish Markka
+"France",FRF,250,-2,French Franc
+"French Guiana",FRF,250,-2,French Franc
+"French Polynesia",XPF,953,0,CFP Franc
+"French Southern Territories",XPF,953,0,CFP Franc
+"Gabon",XAF,950,0,CFA Franc (BEAC)
+"Gambia",GMD,270,-2,Dalasi
+"Georgia",GEL,981,-2,Lari
+"Germany",DEM,276,-2,Deutsche Mark
+"Ghana",GHC,288,-2,Ghana Cedi
+"Gibraltar",GIP,292,-2,Gibraltar Pound
+"Greece",GRD,300,0,Drachma
+"Greenland",DKK,208,-2,Danish Krone
+"Granada",XCD,951,-2,East Caribbean Dollar
+"Guadaloupe",FRF,250,-2,French Franc
+"Guam",USD,840,-2,US Dollar
+"Guatemala",GTQ,320,-2,Guatemalan Quetzal
+"Guinea",GNF,324,0,Guinea Franc
+"Guinea-Bissau",GWP,624,-2,Guinea-Bissau Peso
+"Guinea-Bissau",XOF,952,0,CFA Franc (BCEAO)
+"Guyana",GYD,328,-2,Guyana Dollar
+"Haiti",HTG,332,-2,Haiti Gourde
+"Haiti",USD,840,-2,US Dollar
+"Heard Island and McDonald Islands",AUD,36,-2,Australian Dollar
+"Holy See (Vatican City State)",ITL,380,0,Italian Lira
+"Honduras",HNL,340,-2,Honduran Lempira
+"Hungary",HUF,348,-2,Forint
+"Iceland",ISK,352,-2,Iceland Krona
+"India",INR,356,-2,Indian Rupee
+"Indonesia",IDR,360,-2,Indonesian Rupiah
+"International Monetary Fund",XDR,960,N.A.,SDR
+"Iran",IRR,364,-2,Iranian Rial
+"Iraq",IQD,368,-3,Iraqi Dinar
+"Ireland",IEP,372,-2,Irish Pound
+"Israel",ILS,376,-2,New Israeli Sheqel
+"Italy",ITL,380,0,Italian Lira
+"Jamaica",JMD,388,-2,Jamaican Dollar
+"Japan",JPY,392,0,Yen
+"Jordan",JOD,400,-3,Jordanian Dinar
+"Kazakhstan",KZT,398,-2,Kazakhstan Tenge
+"Kenya",KES,404,-2,Kenyan Shilling
+"Kiribati",AUD,36,-2,Australian Dollar
+"Korea, Democratic People's Republic of",KPW,408,-2,North Korean Won
+"Korea, Republic of",KRW,410,0,South Korean Won
+"Kuwait",KWD,414,-3,Kuwaiti Dinar
+"Kyrgyzstan",KGS,417,-2,Kyrgyzstan Som
+"Lao People's Democratic Republic",LAK,418,-2,Laos Kip
+"Latvia",LVL,428,-2,Latvian Lats
+"Lebanon",LBP,422,-2,Lebanese Pound
+"Lesotho",ZAR,710,-2,Rand
+"Lesotho",LSL,426,-2,Loti
+"Liberia",LRD,430,-2,Liberian Dollar
+"Libyan Arab Jamahirya",LYD,434,-3,Libyan Dinar
+"Liechtenstein",CHF,756,-2,Swiss Franc
+"Lithuania",LTL,440,-2,Lithuanian Litas
+"Luxembourg",LUF,442,0,Luxembourg Franc
+"Macedonia (Former Yug. Rep.)",MKD,807,-2,Macedonian Denar
+"Madagascar",MGF,450,0,Malagasy Franc
+"Malawi",MWK,454,-2,Kwacha
+"Malaysia",MYR,458,-2,Malaysian Ringgit
+"Maldives",MVR,462,-2,Maldives Rufiyaa
+"Mali",XOF,952,0,CFA Franc BCEAO
+"Malta",MTL,470,-2,Maltese Lira
+"Marshall Islands",USD,840,-2,US Dollar
+"Martinique",FRF,250,-2,French Franc
+"Mauritania",MRO,478,-2,Mauritanian Ouguiya
+"Mauritius",MUR,480,-2,Mauritius Rupee
+"Mexico",MXN,484,-2,Mexican Peso
+"Mexico",MXV,979,-2,Mexican Unidad de Inversion (UDI)
+"Micronesia",USD,840,-2,US Dollar
+"Moldova, Republic of",MDL,498,-2,Moldovan Leu
+"Monaco",FRF,250,-2,French Franc
+"Mongolia",MNT,496,-2,Mongolian Tugrik
+"Montserrat",XCD,951,-2,East Caribbean Dollar
+"Morocco",MAD,504,-2,Moroccan Dirham
+"Mozambique",MZM,508,-2,Mozambique Metical
+"Myanmar",MMK,104,-2,Myanmar Kyat
+"Namibia",ZAR,710,-2,Rand
+"Namibia",NAD,516,-2,Namibia Dollar
+"Nauru",AUD,36,-2,Australian Dollar
+"Nepal",NPR,524,-2,Nepalese Rupee
+"Netherlands Antilles",ANG,532,-2,Netherlands Antillian Guilder
+"Netherlands",NLG,528,-2,Netherlands Gulder
+"New Caledonia",XPF,953,0,CFP Franc
+"New Zealand",NZD,554,-2,New Zealand Dollar
+"Nicaragua",NIO,558,-2,Nicaraguan Cordoba Oro
+"Niger",XOF,952,0,CFA Franc BCEAO
+"Nigeria",NGN,566,-2,Nigerian Naira
+"Niue",NZD,554,-2,New Zealand Dollar
+"Norfolk Island",AUD,36,-2,Australian Dollar
+"Northern Mariana Islands",USD,840,-2,US Dollar
+"Norway",NOK,578,-2,Norwegian Krone
+"Oman",OMR,512,-3,Rial Omani
+"Pakistan",PKR,586,-2,Pakistan Rupee
+"Palau",USD,840,-2,US Dollar
+"Panama",PAB,590,-2,Balboa
+"Panama",USD,840,-2,US Dollar
+"Papua New Guinea",PGK,598,-2,Papua New Guinea Kina
+"Paraguay",PYG,600,0,Paraguay Guarani
+"Peru",PEN,604,-2,Peru Nuevo Sol
+"Philippines",PHP,608,-2,Philippine Peso
+"Pitcairn",NZD,554,-2,New Zealand Dollar
+"Poland",PLN,985,-2,Poland Zloty
+"Portugal",PTE,620,0,Portuguese Escudo
+"Puerto Rico",USD,840,-2,US Dollar
+"Qatar",QAR,634,-2,Qatari Rial
+"Reunion",FRF,250,-2,French Franc
+"Romania",RON,642,-2,Romanian Leu
+"Russian Federation",RUR,810,-2,Russian Ruble
+"Russian Federation",RUB,643,-2,Russian Ruble
+"Rwanda",RWF,646,0,Rwanda Franc
+"Saint Kitts and Nevis",XCD,951,-2,East Caribbean Dollar
+"Saint Lucia",FRF,951,-2,East Caribbean Dollar
+"Saint Pierre and Miquelon",XCD,250,-2,French Franc
+"Saint Vincent and the Grenadines",XCD,951,-2,East Caribbean Dollar
+"Saint Helena",SHP,654,-2,St. Helena Pound
+"Samoa",WST,882,-2,Tala
+"San Marino",ITL,380,0,Italian Lira
+"Sao Tome and Principe",STD,678,-2,Sao Tome and Principe Dobra
+"Saudi Arabia",SAR,682,-2,Saudi Riyal
+"Senegal",XOF,952,0,CFA Franc BCEAO
+"Seychelles",SCR,690,-2,Seychelles Rupee
+"Sierra Leone",SLL,694,-2,Sierra Leone Leone
+"Singapore",SGD,702,-2,Singapore Dollar
+"Slovakia",SKK,703,-2,Slovak Koruna
+"Slovenia",SIT,705,-2,Slovenia Tolar
+"Solomon Island",SBD,90,-2,Solomon Islands Dollar
+"Somalia",SOS,706,-2,Somalia Shilling
+"South Africa",ZAR,710,-2,South African Rand
+"Spain",ESP,724,0,Spanish Peseta
+"Sri Lanka",LKR,144,-2,Sri Lanka Rupee
+"Sudan",SDP,736,-2,Sudanese Dinar
+"Suriname",SRG,740,-2,Suriname Guilder
+"Svalbard and Jan Mayen",NOK,578,-2,Norwegian Krone
+"Swaziland",SZL,748,-2,Swaziland Lilangeni
+"Sweden",SEK,752,-2,Swedish Krona
+"Switzerland",CHF,756,-2,Swiss Franc
+"Syrian Arab Republic",SYP,760,-2,Syrian Pound
+"Taiwan",TWD,901,-2,New Taiwan Dollar
+"Tajikistan",TJR,762,0,Tajik Ruble
+"Tanzania, United Republic of",TZS,834,-2,Tanzanian Shilling
+"Thailand",THB,764,-2,Thai Baht
+"Togo",XOF,952,0,CFA Franc BCEAO
+"Tokelau",NZD,554,-2,New Zealand Dollar
+"Tonga",TOP,776,-2,Tonga Pa'anga
+"Trinidad and Tobago",TTD,780,-2,Trinidad and Tobago Dollar
+"Tunisia",TND,788,-3,Tunisian Dinar
+"Turkey",TRL,792,0,Turkish Lira
+"Turkmenistan",TMM,795,-2,Manat
+"Turks and Caicos Islands",USD,840,-2,US Dollar
+"Tuvalu",AUD,36,-2,AUD
+"Uganda",UGX,800,2,Ugandan Shilling
+"Ukraine",UAH,980,-2,Hryvnia
+"United Arab Emirates",AED,784,-2,UAE Dirham
+"United Kingdom",GBP,826,-2,Pound Sterling
+"United States of America",USD,840,-2,US Dollar
+"United States of America",USS,998,-2,US Dollar (Same day) 
+"United States of America",USN,997,-2,US Dollar (Next day)
+"United States Minor Outlying Islands",USD,840,-2,US Dollar
+"Uruguay",UYU,858,-2,Peso Uruguayo
+"Uzbekistan",UZS,860,-2,Uzbekistan Sum
+"Vanuatu",VUV,548,0,Vanuatu Vatu
+"Venezuela",VEB,862,-2,Venezuela Bolivar
+"Viet Nam",VND,704,-2,Viet Nam Dong
+"Virgin Islands (British)",USD,840,-2,US Dollar
+"Virgin Islands (US)",USD,840,-2,US Dollar
+"Wallis and Futuna",XPF,953,0,CFP Franc
+"Western Sahara",MAD,504,-2,Moroccan Dirham
+"Yemen",YER,886,-2,Yemeni Rial
+"Yugoslavia",YUN,891,-2,Yugoslavian Dinar
+"Zaire",ZRN,180,-2,Unknown
+"Zambia",ZMK,894,-2,Zambia Kwacha
+"Zimbabwe",ZWD,716,-2,Zimbabwe Dollar
